@@ -14,7 +14,7 @@ hi, i'm [Ichrak Ben Saad](https://ichrakbensaad1.me/), a  software engineer from
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://www.artstation.com/artwork/ealoGJ" width="500" height="320" />
+  <img align="right" alt="GIF" src="[https://www.artstation.com/artwork/ealoGJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw31d8jqHVqs7VJceHaCGZGw&ust=1678281041812000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCVvoDyyf0CFQAAAAAdAAAAABAE)" width="500" height="320" />
   
 - 💼 [email](ichrakbensaad8@gmail.com) :)
 
