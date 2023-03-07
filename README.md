@@ -9,9 +9,8 @@
 
 <br />
 
-hi, i'm [Ichrak Ben Saad](https://ichrakbensaad1.me/), a  software engineer from Tunsia.
+hi, i'm [Ichrak Ben Saad](https://ichrakbensaad1.me/), a software engineer from Tunsia.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="500" height="320" />
