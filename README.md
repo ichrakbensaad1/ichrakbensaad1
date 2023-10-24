@@ -1,6 +1,8 @@
 ### hey there 
 
-
+<a href="www.linkedin.com/in/ichrak-ben-saad-b2a007192/">
+  <img align="left" alt="Ichrak LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ichrakbensaad1)
