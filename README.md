@@ -6,7 +6,7 @@
 
 <br />
 
-hi, i'm [Ichrak Ben Saad](https://ichrakbensaad1.me/), a software engineer from Tunsia.
+hi, i'm [Ichrak Ben Saad](https://ichrakbensaad1.me/), a software engineer.
 
 
 
